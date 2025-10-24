@@ -6,16 +6,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soulchild81&layout=compact&theme=default&hide_border=true)
 
-## 📈 GitHub Stats Summary
-
-| Stat | Value |
-|------|-------|
-| ⭐ Total Stars Earned | 3.6k |
-| 🕐 Total Commits (last year) | 99 |
-| 🔀 Total PRs | 493 |
-| ❗ Total Issues | 731 |
-| 📚 Contributed to (last year) | 1 |
-
 ## 🛠️ Tech Stack
 
 ## 📊 Contribution Graph
@@ -27,5 +17,3 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=soulchild81&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
 ---
-
-*Last updated: $(date)*
